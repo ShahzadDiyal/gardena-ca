@@ -170,7 +170,7 @@ export default function DowntownGardenaPage() {
                     For older properties needing full pipe modernizations, learn about our <Link href="/galvanized-pipe-replacement/">galvanized pipe replacement</Link> and whole-line <Link href="/water-meter-to-house-replacement/">meter-to-house pipe replacement</Link> services. Discover complete citywide support on our <Link href="/">water service line repair in Gardena</Link> homepage.
                   </p>
 
-                  <div style={{ background: '#FFFFFF', border: 1px solid var(--color-border)', borderRadius: 'var(--radius-md)', padding: '1.25rem', marginTop: '1.5rem' }}>
+                  <div style={{ background: '#FFFFFF', border: '1px solid var(--color-border)', borderRadius: 'var(--radius-md)', padding: '1.25rem', marginTop: '1.5rem' }}>
                     <h4 style={{ marginTop: 0, color: 'var(--color-primary-dark)' }}>City Permitting &amp; Safety Compliance</h4>
                     <p style={{ fontSize: '0.875rem', color: 'var(--color-text-muted)', marginBottom: 0 }}>
                       Contractors manage all required City of Gardena Community Development plumbing permits and DigAlert 811 utility mark-outs, ensuring all work complies with California commercial and residential plumbing standards.

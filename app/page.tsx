@@ -31,6 +31,57 @@ const jsonLd = {
       }
     },
     {
+      "@type": "PlumbingService",
+      "@id": "https://www.gardenawaterlinepros.com/#plumbing-service",
+      "name": "Gardena Water Line Pros",
+      "url": "https://www.gardenawaterlinepros.com/",
+      "logo": "https://www.gardenawaterlinepros.com/images/logo.svg",
+      "image": "https://www.gardenawaterlinepros.com/images/water-line-diagram.svg",
+      "telephone": "+1-310-817-5933",
+      "priceRange": "$$",
+      "currenciesAccepted": "USD",
+      "paymentAccepted": "Cash, Credit Card, Check, Financing",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Gardena",
+        "addressRegion": "CA",
+        "postalCode": "90247",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.8883,
+        "longitude": -118.3090
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "00:00",
+          "closes": "23:59"
+        }
+      ],
+      "areaServed": [
+        { "@type": "City", "name": "Gardena" },
+        { "@type": "PostalCode", "postalCode": "90247" },
+        { "@type": "PostalCode", "postalCode": "90248" },
+        { "@type": "PostalCode", "postalCode": "90249" },
+        { "@type": "Neighborhood", "name": "Strawberry Park" },
+        { "@type": "Neighborhood", "name": "Hollypark" },
+        { "@type": "Neighborhood", "name": "Moneta" },
+        { "@type": "Neighborhood", "name": "El Camino Village" },
+        { "@type": "Neighborhood", "name": "Downtown Gardena" }
+      ]
+    },
+    {
       "@type": "WebSite",
       "@id": "https://www.gardenawaterlinepros.com/#website",
       "url": "https://www.gardenawaterlinepros.com/",
