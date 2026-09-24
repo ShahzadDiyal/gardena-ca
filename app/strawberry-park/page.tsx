@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Strawberry Park Gardena Water Line Repair & Trenchless Replacement',
   description: 'Water service line repair and trenchless pipe replacement in Strawberry Park, Gardena CA. Fast local dispatch for underground leak detection & main repairs. Call (310) 817-5933.',
   alternates: {
-    canonical: 'https://www.gardenawaterlinepros.com/strawberry-park/'
+    canonical: 'http://fixwaterca.online/strawberry-park/'
   }
 };
 
@@ -15,7 +15,7 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "Place",
-      "@id": "https://www.gardenawaterlinepros.com/strawberry-park/#place",
+      "@id": "http://fixwaterca.online/strawberry-park/#place",
       "name": "Strawberry Park, Gardena, CA",
       "containedInPlace": {
         "@type": "City",
@@ -28,25 +28,25 @@ const jsonLd = {
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://www.gardenawaterlinepros.com/strawberry-park/#breadcrumbs",
+      "@id": "http://fixwaterca.online/strawberry-park/#breadcrumbs",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://www.gardenawaterlinepros.com/"
+          "item": "http://fixwaterca.online/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Strawberry Park",
-          "item": "https://www.gardenawaterlinepros.com/strawberry-park/"
+          "item": "http://fixwaterca.online/strawberry-park/"
         }
       ]
     },
     {
       "@type": "FAQPage",
-      "@id": "https://www.gardenawaterlinepros.com/strawberry-park/#faq",
+      "@id": "http://fixwaterca.online/strawberry-park/#faq",
       "mainEntity": [
         {
           "@type": "Question",

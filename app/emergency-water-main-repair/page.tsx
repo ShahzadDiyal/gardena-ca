@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: '24/7 Emergency Water Main Repair Gardena CA | Fast Local Dispatch',
   description: 'Burst underground water main in Gardena, CA? Get immediate 24/7 dispatch for emergency water line repair, water shut-off & leak containment. Call (310) 817-5933.',
   alternates: {
-    canonical: 'https://www.gardenawaterlinepros.com/emergency-water-main-repair/'
+    canonical: 'http://fixwaterca.online/emergency-water-main-repair/'
   }
 };
 
@@ -15,14 +15,14 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "EmergencyService",
-      "@id": "https://www.gardenawaterlinepros.com/emergency-water-main-repair/#service",
+      "@id": "http://fixwaterca.online/emergency-water-main-repair/#service",
       "name": "Emergency Water Main Repair",
       "serviceType": "24/7 Water Line Emergency Dispatch",
       "description": "24/7 rapid emergency dispatch for ruptured, leaking, and burst underground water service lines in Gardena, CA.",
       "provider": {
         "@type": "Organization",
         "name": "Gardena Water Line Pros",
-        "url": "https://www.gardenawaterlinepros.com/",
+        "url": "http://fixwaterca.online/",
         "telephone": "+1-310-817-5933"
       },
       "areaServed": {
@@ -36,25 +36,25 @@ const jsonLd = {
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://www.gardenawaterlinepros.com/emergency-water-main-repair/#breadcrumbs",
+      "@id": "http://fixwaterca.online/emergency-water-main-repair/#breadcrumbs",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://www.gardenawaterlinepros.com/"
+          "item": "http://fixwaterca.online/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Emergency Water Main Repair",
-          "item": "https://www.gardenawaterlinepros.com/emergency-water-main-repair/"
+          "item": "http://fixwaterca.online/emergency-water-main-repair/"
         }
       ]
     },
     {
       "@type": "FAQPage",
-      "@id": "https://www.gardenawaterlinepros.com/emergency-water-main-repair/#faq",
+      "@id": "http://fixwaterca.online/emergency-water-main-repair/#faq",
       "mainEntity": [
         {
           "@type": "Question",

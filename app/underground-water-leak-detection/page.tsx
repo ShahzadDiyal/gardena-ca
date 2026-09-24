@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Underground Water Leak Detection Gardena CA | Non-Invasive Diagnostics',
   description: 'Spike in your Gardena water bill or damp patches on your lawn? Pinpoint hidden underground water line leaks with acoustic & electronic detection. Call (310) 817-5933.',
   alternates: {
-    canonical: 'https://www.gardenawaterlinepros.com/underground-water-leak-detection/'
+    canonical: 'http://fixwaterca.online/underground-water-leak-detection/'
   }
 };
 
@@ -15,14 +15,14 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "Service",
-      "@id": "https://www.gardenawaterlinepros.com/underground-water-leak-detection/#service",
+      "@id": "http://fixwaterca.online/underground-water-leak-detection/#service",
       "name": "Underground Water Leak Detection",
       "serviceType": "Acoustic & Electronic Leak Detection",
       "description": "Non-invasive electronic and acoustic subterranean water service line leak detection in Gardena, CA.",
       "provider": {
         "@type": "Organization",
         "name": "Gardena Water Line Pros",
-        "url": "https://www.gardenawaterlinepros.com/",
+        "url": "http://fixwaterca.online/",
         "telephone": "+1-310-817-5933"
       },
       "areaServed": {
@@ -36,25 +36,25 @@ const jsonLd = {
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://www.gardenawaterlinepros.com/underground-water-leak-detection/#breadcrumbs",
+      "@id": "http://fixwaterca.online/underground-water-leak-detection/#breadcrumbs",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://www.gardenawaterlinepros.com/"
+          "item": "http://fixwaterca.online/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Underground Water Leak Detection",
-          "item": "https://www.gardenawaterlinepros.com/underground-water-leak-detection/"
+          "item": "http://fixwaterca.online/underground-water-leak-detection/"
         }
       ]
     },
     {
       "@type": "FAQPage",
-      "@id": "https://www.gardenawaterlinepros.com/underground-water-leak-detection/#faq",
+      "@id": "http://fixwaterca.online/underground-water-leak-detection/#faq",
       "mainEntity": [
         {
           "@type": "Question",

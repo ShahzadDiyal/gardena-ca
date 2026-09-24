@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.gardenawaterlinepros.com/sitemap.xml
+Sitemap: http://fixwaterca.online/sitemap.xml

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'El Camino Village Gardena Water Line Repair & Trenchless Replacement',
   description: 'Water service line repair and trenchless pipe replacement in El Camino Village, Gardena CA. Fast local dispatch for leak detection & main line renewals. Call (310) 817-5933.',
   alternates: {
-    canonical: 'https://www.gardenawaterlinepros.com/el-camino-village/'
+    canonical: 'http://fixwaterca.online/el-camino-village/'
   }
 };
 
@@ -15,7 +15,7 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "Place",
-      "@id": "https://www.gardenawaterlinepros.com/el-camino-village/#place",
+      "@id": "http://fixwaterca.online/el-camino-village/#place",
       "name": "El Camino Village, Gardena, CA",
       "containedInPlace": {
         "@type": "City",
@@ -28,25 +28,25 @@ const jsonLd = {
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://www.gardenawaterlinepros.com/el-camino-village/#breadcrumbs",
+      "@id": "http://fixwaterca.online/el-camino-village/#breadcrumbs",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://www.gardenawaterlinepros.com/"
+          "item": "http://fixwaterca.online/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "El Camino Village",
-          "item": "https://www.gardenawaterlinepros.com/el-camino-village/"
+          "item": "http://fixwaterca.online/el-camino-village/"
         }
       ]
     },
     {
       "@type": "FAQPage",
-      "@id": "https://www.gardenawaterlinepros.com/el-camino-village/#faq",
+      "@id": "http://fixwaterca.online/el-camino-village/#faq",
       "mainEntity": [
         {
           "@type": "Question",

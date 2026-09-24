@@ -6,7 +6,7 @@ import Footer from '@/components/Footer';
 import StickyMobileBar from '@/components/StickyMobileBar';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://www.gardenawaterlinepros.com'),
+  metadataBase: new URL('http://fixwaterca.online'),
   title: {
     default: 'Gardena Water Service Line Repair & Replacement | 24/7 Local Dispatch',
     template: '%s | Gardena Water Line Pros'
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     siteName: 'Gardena Water Line Pros',
     type: 'website',
     locale: 'en_US',
-    url: 'https://www.gardenawaterlinepros.com/',
+    url: 'http://fixwaterca.online/',
     title: 'Gardena Water Service Line Repair & Replacement',
     description: 'Connect with licensed South Bay plumbing contractors for underground water line repair, leak detection, and trenchless pipe replacement in Gardena, CA.',
     images: [

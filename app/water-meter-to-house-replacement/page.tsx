@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Water Meter to House Pipe Replacement Gardena CA | Full Line Renewal',
   description: 'Replace your entire private water service line from the curb meter to your house in Gardena, CA. Long-lasting PEX-a & copper with trenchless methods. Call (310) 817-5933.',
   alternates: {
-    canonical: 'https://www.gardenawaterlinepros.com/water-meter-to-house-replacement/'
+    canonical: 'http://fixwaterca.online/water-meter-to-house-replacement/'
   }
 };
 
@@ -15,14 +15,14 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "Service",
-      "@id": "https://www.gardenawaterlinepros.com/water-meter-to-house-replacement/#service",
+      "@id": "http://fixwaterca.online/water-meter-to-house-replacement/#service",
       "name": "Water Meter to House Pipe Replacement",
       "serviceType": "Whole-Line Water Service Replacement",
       "description": "Full replacement of private underground water service pipes from the city meter to the residential foundation shutoff in Gardena, CA.",
       "provider": {
         "@type": "Organization",
         "name": "Gardena Water Line Pros",
-        "url": "https://www.gardenawaterlinepros.com/",
+        "url": "http://fixwaterca.online/",
         "telephone": "+1-310-817-5933"
       },
       "areaServed": {
@@ -36,25 +36,25 @@ const jsonLd = {
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://www.gardenawaterlinepros.com/water-meter-to-house-replacement/#breadcrumbs",
+      "@id": "http://fixwaterca.online/water-meter-to-house-replacement/#breadcrumbs",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://www.gardenawaterlinepros.com/"
+          "item": "http://fixwaterca.online/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Water Meter to House Replacement",
-          "item": "https://www.gardenawaterlinepros.com/water-meter-to-house-replacement/"
+          "item": "http://fixwaterca.online/water-meter-to-house-replacement/"
         }
       ]
     },
     {
       "@type": "FAQPage",
-      "@id": "https://www.gardenawaterlinepros.com/water-meter-to-house-replacement/#faq",
+      "@id": "http://fixwaterca.online/water-meter-to-house-replacement/#faq",
       "mainEntity": [
         {
           "@type": "Question",

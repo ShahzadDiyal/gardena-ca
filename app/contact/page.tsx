@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Contact Gardena Water Line Pros | 24/7 Dispatch Hotline & Form',
   description: 'Contact Gardena Water Line Pros for fast water service line repair, leak detection & trenchless replacement in Gardena, CA. Call (310) 817-5933 for 24/7 dispatch.',
   alternates: {
-    canonical: 'https://www.gardenawaterlinepros.com/contact/'
+    canonical: 'http://fixwaterca.online/contact/'
   }
 };
 
@@ -16,31 +16,31 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "ContactPage",
-      "@id": "https://www.gardenawaterlinepros.com/contact/#webpage",
-      "url": "https://www.gardenawaterlinepros.com/contact/",
+      "@id": "http://fixwaterca.online/contact/#webpage",
+      "url": "http://fixwaterca.online/contact/",
       "name": "Contact Gardena Water Line Pros",
       "description": "Contact and emergency dispatch page for water service line repair in Gardena, CA.",
       "isPartOf": {
         "@type": "WebSite",
         "name": "Gardena Water Line Pros",
-        "url": "https://www.gardenawaterlinepros.com/"
+        "url": "http://fixwaterca.online/"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://www.gardenawaterlinepros.com/contact/#breadcrumbs",
+      "@id": "http://fixwaterca.online/contact/#breadcrumbs",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://www.gardenawaterlinepros.com/"
+          "item": "http://fixwaterca.online/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Contact Us",
-          "item": "https://www.gardenawaterlinepros.com/contact/"
+          "item": "http://fixwaterca.online/contact/"
         }
       ]
     }

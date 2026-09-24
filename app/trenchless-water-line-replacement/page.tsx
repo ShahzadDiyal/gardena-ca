@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Trenchless Water Line Replacement Gardena CA | No-Dig Pipe Pulling',
   description: 'Replace broken or aging underground water lines in Gardena, CA without digging up your driveway or lawn. Fast trenchless pipe pulling & boring. Call (310) 817-5933.',
   alternates: {
-    canonical: 'https://www.gardenawaterlinepros.com/trenchless-water-line-replacement/'
+    canonical: 'http://fixwaterca.online/trenchless-water-line-replacement/'
   }
 };
 
@@ -16,14 +16,14 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "Service",
-      "@id": "https://www.gardenawaterlinepros.com/trenchless-water-line-replacement/#service",
+      "@id": "http://fixwaterca.online/trenchless-water-line-replacement/#service",
       "name": "Trenchless Water Line Replacement",
       "serviceType": "Trenchless Water Pipe Replacement",
       "description": "Minimally invasive underground water line replacement using hydraulic pipe pulling and directional boring in Gardena, CA.",
       "provider": {
         "@type": "Organization",
         "name": "Gardena Water Line Pros",
-        "url": "https://www.gardenawaterlinepros.com/",
+        "url": "http://fixwaterca.online/",
         "telephone": "+1-310-817-5933"
       },
       "areaServed": {
@@ -37,25 +37,25 @@ const jsonLd = {
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://www.gardenawaterlinepros.com/trenchless-water-line-replacement/#breadcrumbs",
+      "@id": "http://fixwaterca.online/trenchless-water-line-replacement/#breadcrumbs",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://www.gardenawaterlinepros.com/"
+          "item": "http://fixwaterca.online/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Trenchless Water Line Replacement",
-          "item": "https://www.gardenawaterlinepros.com/trenchless-water-line-replacement/"
+          "item": "http://fixwaterca.online/trenchless-water-line-replacement/"
         }
       ]
     },
     {
       "@type": "FAQPage",
-      "@id": "https://www.gardenawaterlinepros.com/trenchless-water-line-replacement/#faq",
+      "@id": "http://fixwaterca.online/trenchless-water-line-replacement/#faq",
       "mainEntity": [
         {
           "@type": "Question",

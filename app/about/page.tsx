@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'About Gardena Water Line Pros | Local Referral & Dispatch Service',
   description: 'Learn about Gardena Water Line Pros. We connect homeowners and businesses in Gardena, CA with licensed, vetted underground water line specialists. Call (310) 817-5933.',
   alternates: {
-    canonical: 'https://www.gardenawaterlinepros.com/about/'
+    canonical: 'http://fixwaterca.online/about/'
   }
 };
 
@@ -15,31 +15,31 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "AboutPage",
-      "@id": "https://www.gardenawaterlinepros.com/about/#webpage",
-      "url": "https://www.gardenawaterlinepros.com/about/",
+      "@id": "http://fixwaterca.online/about/#webpage",
+      "url": "http://fixwaterca.online/about/",
       "name": "About Gardena Water Line Pros",
       "description": "About our local referral and customer connection service for water service line repair and trenchless replacement in Gardena, CA.",
       "isPartOf": {
         "@type": "WebSite",
         "name": "Gardena Water Line Pros",
-        "url": "https://www.gardenawaterlinepros.com/"
+        "url": "http://fixwaterca.online/"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://www.gardenawaterlinepros.com/about/#breadcrumbs",
+      "@id": "http://fixwaterca.online/about/#breadcrumbs",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://www.gardenawaterlinepros.com/"
+          "item": "http://fixwaterca.online/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "About Us",
-          "item": "https://www.gardenawaterlinepros.com/about/"
+          "item": "http://fixwaterca.online/about/"
         }
       ]
     }

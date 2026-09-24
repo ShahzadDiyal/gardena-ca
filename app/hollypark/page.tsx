@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Hollypark Gardena Water Line Repair & Trenchless Replacement',
   description: 'Water service line repair and leak detection in Hollypark, Gardena CA. Fast local dispatch for trenchless pipe replacement & emergency repairs. Call (310) 817-5933.',
   alternates: {
-    canonical: 'https://www.gardenawaterlinepros.com/hollypark/'
+    canonical: 'http://fixwaterca.online/hollypark/'
   }
 };
 
@@ -15,7 +15,7 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "Place",
-      "@id": "https://www.gardenawaterlinepros.com/hollypark/#place",
+      "@id": "http://fixwaterca.online/hollypark/#place",
       "name": "Hollypark, Gardena, CA",
       "containedInPlace": {
         "@type": "City",
@@ -28,25 +28,25 @@ const jsonLd = {
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://www.gardenawaterlinepros.com/hollypark/#breadcrumbs",
+      "@id": "http://fixwaterca.online/hollypark/#breadcrumbs",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://www.gardenawaterlinepros.com/"
+          "item": "http://fixwaterca.online/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Hollypark",
-          "item": "https://www.gardenawaterlinepros.com/hollypark/"
+          "item": "http://fixwaterca.online/hollypark/"
         }
       ]
     },
     {
       "@type": "FAQPage",
-      "@id": "https://www.gardenawaterlinepros.com/hollypark/#faq",
+      "@id": "http://fixwaterca.online/hollypark/#faq",
       "mainEntity": [
         {
           "@type": "Question",

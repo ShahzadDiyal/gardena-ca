@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Moneta Gardena Water Line Repair & Trenchless Replacement',
   description: 'Water service line repair and trenchless pipe replacement in Moneta, Gardena CA. Fast dispatch for leak detection & galvanized pipe upgrades. Call (310) 817-5933.',
   alternates: {
-    canonical: 'https://www.gardenawaterlinepros.com/moneta/'
+    canonical: 'http://fixwaterca.online/moneta/'
   }
 };
 
@@ -15,7 +15,7 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "Place",
-      "@id": "https://www.gardenawaterlinepros.com/moneta/#place",
+      "@id": "http://fixwaterca.online/moneta/#place",
       "name": "Moneta, Gardena, CA",
       "containedInPlace": {
         "@type": "City",
@@ -28,25 +28,25 @@ const jsonLd = {
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://www.gardenawaterlinepros.com/moneta/#breadcrumbs",
+      "@id": "http://fixwaterca.online/moneta/#breadcrumbs",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://www.gardenawaterlinepros.com/"
+          "item": "http://fixwaterca.online/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Moneta",
-          "item": "https://www.gardenawaterlinepros.com/moneta/"
+          "item": "http://fixwaterca.online/moneta/"
         }
       ]
     },
     {
       "@type": "FAQPage",
-      "@id": "https://www.gardenawaterlinepros.com/moneta/#faq",
+      "@id": "http://fixwaterca.online/moneta/#faq",
       "mainEntity": [
         {
           "@type": "Question",

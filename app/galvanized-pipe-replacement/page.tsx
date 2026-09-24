@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Galvanized & Lead Water Pipe Replacement Gardena CA | Copper & PEX',
   description: 'Replace aging, rusty galvanized water service lines in Gardena, CA. Upgrade to modern Type K copper or PEX-a for clean water & full pressure. Call (310) 817-5933.',
   alternates: {
-    canonical: 'https://www.gardenawaterlinepros.com/galvanized-pipe-replacement/'
+    canonical: 'http://fixwaterca.online/galvanized-pipe-replacement/'
   }
 };
 
@@ -15,14 +15,14 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "Service",
-      "@id": "https://www.gardenawaterlinepros.com/galvanized-pipe-replacement/#service",
+      "@id": "http://fixwaterca.online/galvanized-pipe-replacement/#service",
       "name": "Galvanized & Lead Water Pipe Replacement",
       "serviceType": "Main Water Supply Line Repiping",
       "description": "Replacement of degraded galvanized steel and lead water supply lines with modern PEX-a and copper in Gardena, CA.",
       "provider": {
         "@type": "Organization",
         "name": "Gardena Water Line Pros",
-        "url": "https://www.gardenawaterlinepros.com/",
+        "url": "http://fixwaterca.online/",
         "telephone": "+1-310-817-5933"
       },
       "areaServed": {
@@ -36,25 +36,25 @@ const jsonLd = {
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://www.gardenawaterlinepros.com/galvanized-pipe-replacement/#breadcrumbs",
+      "@id": "http://fixwaterca.online/galvanized-pipe-replacement/#breadcrumbs",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://www.gardenawaterlinepros.com/"
+          "item": "http://fixwaterca.online/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Galvanized Pipe Replacement",
-          "item": "https://www.gardenawaterlinepros.com/galvanized-pipe-replacement/"
+          "item": "http://fixwaterca.online/galvanized-pipe-replacement/"
         }
       ]
     },
     {
       "@type": "FAQPage",
-      "@id": "https://www.gardenawaterlinepros.com/galvanized-pipe-replacement/#faq",
+      "@id": "http://fixwaterca.online/galvanized-pipe-replacement/#faq",
       "mainEntity": [
         {
           "@type": "Question",
