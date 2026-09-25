@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://fixwaterca.online/sitemap.xml
+Sitemap: https://fixwaterca.online/sitemap.xml

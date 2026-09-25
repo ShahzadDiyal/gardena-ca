@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Low Water Pressure Repair & PRV Diagnostics Gardena CA | PRV & Main Line',
   description: 'Suffering from weak water pressure in Gardena, CA? Diagnose and repair failed pressure regulator valves (PRV), clogged supply lines & hidden leaks. Call (310) 817-5933.',
   alternates: {
-    canonical: 'http://fixwaterca.online/low-water-pressure-repair/'
+    canonical: 'https://fixwaterca.online/low-water-pressure-repair/'
   }
 };
 
@@ -15,14 +15,14 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "Service",
-      "@id": "http://fixwaterca.online/low-water-pressure-repair/#service",
+      "@id": "https://fixwaterca.online/low-water-pressure-repair/#service",
       "name": "Low Water Pressure Repair & PRV Diagnostics",
       "serviceType": "Water Pressure Troubleshooting & Regulator Repair",
       "description": "Comprehensive diagnostic and repair services for whole-house low water pressure, PRV failure, and water line bottlenecks in Gardena, CA.",
       "provider": {
         "@type": "Organization",
         "name": "Gardena Water Line Pros",
-        "url": "http://fixwaterca.online/",
+        "url": "https://fixwaterca.online/",
         "telephone": "+1-310-817-5933"
       },
       "areaServed": {
@@ -36,25 +36,25 @@ const jsonLd = {
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "http://fixwaterca.online/low-water-pressure-repair/#breadcrumbs",
+      "@id": "https://fixwaterca.online/low-water-pressure-repair/#breadcrumbs",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "http://fixwaterca.online/"
+          "item": "https://fixwaterca.online/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Low Water Pressure Repair",
-          "item": "http://fixwaterca.online/low-water-pressure-repair/"
+          "item": "https://fixwaterca.online/low-water-pressure-repair/"
         }
       ]
     },
     {
       "@type": "FAQPage",
-      "@id": "http://fixwaterca.online/low-water-pressure-repair/#faq",
+      "@id": "https://fixwaterca.online/low-water-pressure-repair/#faq",
       "mainEntity": [
         {
           "@type": "Question",

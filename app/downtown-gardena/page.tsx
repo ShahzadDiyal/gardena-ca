@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Downtown Gardena Water Line Repair & Trenchless Replacement',
   description: 'Commercial and residential water service line repair in Downtown Gardena, CA. Fast local dispatch for trenchless pipe replacement & leak detection. Call (310) 817-5933.',
   alternates: {
-    canonical: 'http://fixwaterca.online/downtown-gardena/'
+    canonical: 'https://fixwaterca.online/downtown-gardena/'
   }
 };
 
@@ -15,7 +15,7 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "Place",
-      "@id": "http://fixwaterca.online/downtown-gardena/#place",
+      "@id": "https://fixwaterca.online/downtown-gardena/#place",
       "name": "Downtown Gardena, CA",
       "containedInPlace": {
         "@type": "City",
@@ -28,25 +28,25 @@ const jsonLd = {
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "http://fixwaterca.online/downtown-gardena/#breadcrumbs",
+      "@id": "https://fixwaterca.online/downtown-gardena/#breadcrumbs",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "http://fixwaterca.online/"
+          "item": "https://fixwaterca.online/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Downtown Gardena",
-          "item": "http://fixwaterca.online/downtown-gardena/"
+          "item": "https://fixwaterca.online/downtown-gardena/"
         }
       ]
     },
     {
       "@type": "FAQPage",
-      "@id": "http://fixwaterca.online/downtown-gardena/#faq",
+      "@id": "https://fixwaterca.online/downtown-gardena/#faq",
       "mainEntity": [
         {
           "@type": "Question",

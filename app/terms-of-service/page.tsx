@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Terms of Service | Gardena Water Line Pros',
   description: 'Terms of service, referral disclosures, and independent contractor terms for Gardena Water Line Pros.',
   alternates: {
-    canonical: 'http://fixwaterca.online/terms-of-service/'
+    canonical: 'https://fixwaterca.online/terms-of-service/'
   }
 };
 

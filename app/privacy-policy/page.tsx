@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Privacy Policy | Gardena Water Line Pros',
   description: 'Privacy Policy and consumer data protection disclosure for Gardena Water Line Pros referral and dispatch services.',
   alternates: {
-    canonical: 'http://fixwaterca.online/privacy-policy/'
+    canonical: 'https://fixwaterca.online/privacy-policy/'
   }
 };
 

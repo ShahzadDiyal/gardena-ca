@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Gardena Water Service Line Repair & Replacement | 24/7 Local Dispatch',
   description: 'Need water service line repair in Gardena, CA? Connect with vetted local plumbing specialists for trenchless water line replacement, leak detection & emergency main repairs. Call (310) 817-5933.',
   alternates: {
-    canonical: 'http://fixwaterca.online/'
+    canonical: 'https://fixwaterca.online/'
   }
 };
 
@@ -15,10 +15,10 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "http://fixwaterca.online/#organization",
+      "@id": "https://fixwaterca.online/#organization",
       "name": "Gardena Water Line Pros",
-      "url": "http://fixwaterca.online/",
-      "logo": "http://fixwaterca.online/images/logo.svg",
+      "url": "https://fixwaterca.online/",
+      "logo": "https://fixwaterca.online/images/logo.svg",
       "telephone": "+1-310-817-5933",
       "description": "Professional referral and dispatch service connecting Gardena, CA property owners with licensed underground water line contractors.",
       "areaServed": {
@@ -32,11 +32,11 @@ const jsonLd = {
     },
     {
       "@type": "PlumbingService",
-      "@id": "http://fixwaterca.online/#plumbing-service",
+      "@id": "https://fixwaterca.online/#plumbing-service",
       "name": "Gardena Water Line Pros",
-      "url": "http://fixwaterca.online/",
-      "logo": "http://fixwaterca.online/images/logo.svg",
-      "image": "http://fixwaterca.online/images/water-line-diagram.svg",
+      "url": "https://fixwaterca.online/",
+      "logo": "https://fixwaterca.online/images/logo.svg",
+      "image": "https://fixwaterca.online/images/water-line-diagram.svg",
       "telephone": "+1-310-817-5933",
       "priceRange": "$$",
       "currenciesAccepted": "USD",
@@ -83,29 +83,29 @@ const jsonLd = {
     },
     {
       "@type": "WebSite",
-      "@id": "http://fixwaterca.online/#website",
-      "url": "http://fixwaterca.online/",
+      "@id": "https://fixwaterca.online/#website",
+      "url": "https://fixwaterca.online/",
       "name": "Gardena Water Line Pros",
       "publisher": {
-        "@id": "http://fixwaterca.online/#organization"
+        "@id": "https://fixwaterca.online/#organization"
       }
     },
     {
       "@type": "WebPage",
-      "@id": "http://fixwaterca.online/#webpage",
-      "url": "http://fixwaterca.online/",
+      "@id": "https://fixwaterca.online/#webpage",
+      "url": "https://fixwaterca.online/",
       "name": "Gardena Water Service Line Repair & Replacement | 24/7 Local Dispatch",
       "isPartOf": {
-        "@id": "http://fixwaterca.online/#website"
+        "@id": "https://fixwaterca.online/#website"
       },
       "about": {
-        "@id": "http://fixwaterca.online/#organization"
+        "@id": "https://fixwaterca.online/#organization"
       },
       "description": "Comprehensive guide and emergency dispatch for water service line repair, leak detection, and trenchless replacement in Gardena, CA."
     },
     {
       "@type": "FAQPage",
-      "@id": "http://fixwaterca.online/#faq",
+      "@id": "https://fixwaterca.online/#faq",
       "mainEntity": [
         {
           "@type": "Question",
