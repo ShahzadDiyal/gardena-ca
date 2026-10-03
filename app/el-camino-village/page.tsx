@@ -95,7 +95,7 @@ export default function ElCaminoVillagePage() {
                 <div className="hero-cta-box">
                   <a href="tel:3108175933" className="btn-cta-large">
                     <span>CALL EL CAMINO VILLAGE DISPATCH: (310) 817-5933</span>
-                    <span className="btn-cta-subtext">Immediate Local Connection &bull; Free Upfront Estimates</span>
+                    <span className="btn-cta-subtext">Immediate Local Connection &bull; Upfront Written Estimates</span>
                   </a>
                 </div>
               </div>

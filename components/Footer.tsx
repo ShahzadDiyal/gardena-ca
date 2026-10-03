@@ -70,6 +70,9 @@ export default function Footer() {
           <p>
             <strong>Referral &amp; Advertising Disclosure:</strong> Gardena Water Line Pros is a free referral and marketing service that connects consumers with local service providers. All contractors are independent, and Gardena Water Line Pros does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the contractor possesses the necessary licenses and insurance required for the work being performed.
           </p>
+          <p>
+            This site is a free service to assist homeowners in connecting with local service contractors. All contractors are independent and this site does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site.
+          </p>
           <div className="footer-bottom-flex">
             <p className="footer-copyright">
               &copy; 2026 Gardena Water Line Pros. All rights reserved. Serving Gardena, CA 90247, 90248, 90249 and surrounding South Bay communities.
